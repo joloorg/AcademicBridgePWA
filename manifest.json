@@ -1,0 +1,22 @@
+{"AcademicBridge.in" : "",
+    "AcademicBridge" : "",
+    "theme_color" : "#ffffff",
+    "background_color" : "#ffffff",
+    "display" : "standalone",
+    "start_url" : "https://academicbridge.in/",
+    "lang" : "English",
+    "name" : "Academic Bridge | Opportunities and Notifications of academic world",
+    "short_name" : "AcademicBridge",
+    "description" : "AcademicBridge provides relevant and timely information of academic opportunities, events, fundings and vacancies of academic world of humanities. We bridge the gap between you and your success. Hence we call it ACADEMICBRIDGE.",
+    "orientation" : "undefined",
+    "generated" : "undefined",
+    "icons" : [
+        {
+            "src": "http://2.bp.blogspot.com/-R6z2H5mDEuA/XTonNvWHCbI/AAAAAAAAAJ4/mXaX6TC7Q0oAavthf78gfGdkGH7gnZVJwCK4BGAYYCw/s1600/android-chrome-192x192.png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "http://2.bp.blogspot.com/-YR0XRNqLm1U/XTonNibvB1I/AAAAAAAAAKA/y66dMSpbh7M6L8HA0JDxE4sgs9dsKR0eACK4BGAYYCw/s1600/android-chrome-512x512.png",
+            "sizes": "512x512"
+        }
+    ]}
